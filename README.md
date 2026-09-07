@@ -1,5 +1,9 @@
 # aside-cdp-bridge
 
+> **AI agent operating this repo?** Read [`AGENTS.md`](AGENTS.md) instead — it's
+> the complete quick-start (install + all 4 commands + error table) in one
+> short file. This README is the human-readable background/rationale.
+
 A tiny Node.js toolkit that lets an AI agent (Claude, or anything else that can
 shell out) control the [Aside](https://www.asideapp.com/) browser directly
 through the Chrome DevTools Protocol (CDP) — **without going through Aside's
